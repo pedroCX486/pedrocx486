@@ -6,4 +6,4 @@ I have some dreams in mind, most are code related. One of them is also related t
   
 You can mail me at `pedrocx486@gmail.com`, I also have a Twitter at [@pedrocx486](https://twitter.com/pedrocx486) but I rarely use it. If you're looking to hire me to do some front-end work, my LinkedIn is [here](https://www.linkedin.com/in/pedrocx486/) (temporarily disabled for personal reasons).
 
-If you're recruiter looking to offer a job position, you may want to look [here](https://pedrocx486.github.io/shitlist/) first and check if your company is *not* in this list.
+If you're recruiter looking to offer a job position, you may want to look [here](https://pedrocx486.github.io/shitlist/) first and check if your company is **not** listed.
