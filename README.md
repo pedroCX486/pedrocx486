@@ -1,6 +1,6 @@
 ### O HAI! ヽ(´▽`)/
   
-I'm a Software Engineer located in Brazil 🇧🇷! I'm mostly a front-end enthusiast (`Angular` and attached langs like JS/TS, CSS/HTML being my main skills) but I also do some simple work with some `C#` and `Node.JS`.
+I'm a Software Engineer located in Brazil 🇧🇷! I'm mostly a front-end enthusiast (`Angular`, `Vue3` and their companion langs like JS/TS, CSS/HTML being my main skills) but I also do some simple work with some `C#` and `Node.JS`.
   
 I have some coding related dreams in mind... One of them is related to GBA rom hacking (if you're into GBA reverse engineering send me a hello!) but sadly I'm not good at all with low-level coding. Still trying though, I'll get there sometime.
   
